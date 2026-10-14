@@ -1,0 +1,59 @@
+Q1. What is the primary goal of cybersecurity?
+a) Increasing internet speed
+b) Protecting systems, networks and data from digital attacks
+c) Designing new hardware
+d) Writing application code only
+
+Q2. The CIA triad in cybersecurity stands for:
+a) Confidentiality, Integrity, Availability
+b) Control, Inspection, Authentication
+c) Cyber, Internet, Access
+d) Compliance, Integrity, Authorization
+
+Q3. Which of the following is a common method of infiltration?
+a) Using strong encryption
+b) Social engineering, malware, and exploiting unpatched software
+c) Regular system updates
+d) Multi-factor authentication
+
+Q4. A zero-day vulnerability is:
+a) A vulnerability that is already patched
+b) A newly discovered flaw unknown to the vendor with no available patch
+c) A type of firewall rule
+d) A scheduled security update
+
+Q5. HTTPS differs from HTTP mainly because:
+a) It is faster
+b) It encrypts data in transit using SSL/TLS
+c) It does not use ports
+d) It only works with images
+
+Q6. In the Client–Server architecture of the web, the browser acts as the:
+a) Server
+b) Client
+c) Database
+d) Router
+
+Q7. Which HTML tag is used to create a hyperlink?
+a) <link>
+b) <a>
+c) <href>
+d) <url>
+
+Q8. Flexbox is mainly used for:
+a) Creating one-dimensional layouts (row or column)
+b) Only changing text color
+c) Database queries
+d) Server-side scripting
+
+Q9. Media queries in CSS are primarily used to:
+a) Play audio files
+b) Apply different styles based on device characteristics such as screen width
+c) Create forms
+d) Connect to databases
+
+Q10. Which of the following is a key principle of effective UI design?
+a) Making everything as complex as possible
+b) Consistency, clarity, feedback and simplicity
+c) Using as many colors as possible without hierarchy
+d) Hiding important controls
